@@ -1,4 +1,6 @@
 # Ex No: 06 - Design & Implementation of 2-Bit Multiplier Using Cadence Virtuoso
+## Ganapathy Shriram V B
+## 212223060064
 
 ## Aim
 The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuoso** and verify its functionality through transient analysis simulation.
@@ -54,8 +56,8 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 ## Output
 ### Transient Analysis Output:
 ![image](https://github.com/user-attachments/assets/0f37bb9a-7418-408c-93aa-e47760dcf713)
+![image](https://github.com/user-attachments/assets/ee092c50-52fc-4c67-b8c5-8b9064b5aadc)
 
-![image](https://github.com/user-attachments/assets/ea1a0699-319a-4b05-8c79-c0245f6eae60)
 
 
 
